@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi Huỳnh Thị Mỹ Trinh",
-    introTitle: 'Tên Huỳnh Thị Mỹ Trinh',
+    titleWeb: "Gửi Babi Đỗ Hồng Quân",
+    introTitle: 'Babi Đỗ Hồng Quân',
     introDesc: `Trái đất  vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Mình hứa sẽ không bao giờ làm bạn buồn <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100040220841900' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/hoangquan.060502/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
